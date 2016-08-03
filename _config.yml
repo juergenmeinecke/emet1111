@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://juergenmeinecke.github.io/emet1111/
+url:                 http://juergenmeinecke.github.io
 paginate:            1
-baseurl:             http://juergenmeinecke.github.io/emet1111/
+baseurl:             /emet1111
 
 # Assets
 #
